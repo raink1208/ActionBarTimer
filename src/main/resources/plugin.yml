@@ -1,0 +1,8 @@
+name: Timer
+version: @version@
+main: com.github.rain1208.timer.Timer
+api-version: 1.16
+
+commands:
+  timer:
+    description: ""
